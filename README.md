@@ -1,6 +1,9 @@
-# Sales-Report
+# **Sales Report**
 
-## Table of Content
+---
+
+## **Table of Content**
+
 [Project Overview](project_overview)
 
 [Data Source](data_source)
@@ -18,17 +21,19 @@
 [Prescriptive Analysis](prescriptive_analysis)
 
 
-### Project Overview
+### **Project Overview**
 
 A B C Stationery, a company that deal on the buying and selling of stationeries across the western region of Nigeria has noticed a decline in profit trend and has requested the Data Analysis Team to look at the company’s performance as at year 2013 and 2014. After analyzing the datasets, this report shows the conclusion that A B C Stationary keeps investing in segments that are not producing profits like the Midmarket and Channel Partners across all states. Further insights are shown in this report to gain deeper understanding of the companys performance.
 
-### Data Source
+---
+
+### **Data Source**
 
 Sales data: The primary dataset used for this analysis is [Football/Soccer Datasets](https://www.kaggle.com/datasets/dissfya/atp-tennis-2013-2023) file.
 
 ![](https://github.com/Vickeejai/Sales-Report/blob/main/Screenshot%20(10).png)
 
-### Tools
+### **Tools**
 
 - Power BI - Data Analysis, DAX Expressions, Creating Reports
   - [Download_here](https://microsoft.com)
@@ -36,13 +41,13 @@ Sales data: The primary dataset used for this analysis is [Football/Soccer Datas
 - PowerPoint - Report Presentation
   - [Download_here](https://microsoft.com)
 
-### Data Cleaning
+### **Data Cleaning**
 
 In the initial data preparation phase, we pperformed the following tasks:
 1. Data Loading and Inspection
 2. Data Cleaning and Formatting using the Power Query Editor
 
-### Exploratory Data Analysis
+### **Exploratory Data Analysis**
 EDA involved exploring the Office Supply dataset to answer the following questions:
 
 1. Calculate
@@ -66,7 +71,7 @@ EDA involved exploring the Office Supply dataset to answer the following questio
   - For each state
   - For each segment
 
-### Data Analysis
+### **Data Analysis**
 ```Gross Sales = financials3[Units Sold]*financials3[Sale Price]```
 
 ```Discount = financials3[Discount Rate]*financials3[Gross Sales]```
@@ -83,7 +88,7 @@ EDA involved exploring the Office Supply dataset to answer the following questio
 
 ```Sales Proportion = financials3[Manufacture Cost]/financials3[Units Sold]*100```
 
-### Results
+### **Results**
 2. The report for segmaent, state and product is shown below:
 
 ![Screenshot 2024-06-08 172032](https://github.com/Vickeejai/Sales-Report/assets/133552578/40a5ab02-3e77-4c0d-90a8-c056142d5a63)
@@ -94,7 +99,7 @@ The production of Staplers and Notepads should be suspended because of the losse
 
 3. Report on all products sold between January and December 2014, showing number of sales, sales proportions, financial performance, and if there is growth or decline on any of the product lines.
 
-A4 PAPAER:
+**A4 PAPAER:**
 A growth for the last quarter of the year for all parameters.
 
 A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
