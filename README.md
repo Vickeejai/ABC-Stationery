@@ -50,6 +50,6 @@ any of the product lines.
 5. What key products are the drivers of performance?
 6. If we would like to discontinue any product sub due to poor outcomes, what would this be?
 7. What product do we pay the highest tax on?
-a. Overall
-b. For each state
-c. For each segment
+  -  Overall
+  - For each state
+  - For each segment
