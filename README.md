@@ -81,9 +81,73 @@ The production of Staplers and Notepads should be suspended because of the losse
 
 3. Report on all products sold between January and December 2014, showing number of sales, sales proportions, financial performance, and if there is growth or decline on any of the product lines.
 
-![Screenshot 2024-06-08 174335](https://github.com/Vickeejai/Sales-Report/assets/133552578/46689d96-99ba-4a45-869d-0d9c64f749f9)
+A4 PAPAER:
+A growth for the last quarter of the year for all parameters.
 
-![Screenshot 2024-06-08 174953](https://github.com/Vickeejai/Sales-Report/assets/133552578/8a51151c-9b35-4957-a40b-9d00f0c209a6)
+A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
+
+Highest profit was made in October.
+
+Made its major loss in month February.
+
+![Screenshot 2024-06-08 175142](https://github.com/Vickeejai/Sales-Report/assets/133552578/daeeb338-7e27-4cff-a7cc-6702e1668643) 
+
+BIRO:
+A growth for the last quarter of the year for all parameters.
+
+A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
+
+Highest profit was made in December.
+
+Made its major loss in moth August
+
+![Screenshot 2024-06-08 175254](https://github.com/Vickeejai/Sales-Report/assets/133552578/436bcd1b-6a52-4a5e-ac07-53c5637bfc69)
+
+MARKERS:
+There was a major decline for all parameters for markers in the year 2014.
+
+A B C Stationery invested so much in this product but got no returns.
+
+They got profit for both July and October, but made their highest in July.
+
+Mostly losses made.
+
+![Screenshot 2024-06-08 175358](https://github.com/Vickeejai/Sales-Report/assets/133552578/77ea2d3f-af68-4194-ba4d-bcbb365e16cb)
+
+NOTEPADS:
+There was a major decline for all parameters for Notepads in the year 2014.
+
+A B C Stationery invested so much in this product but got no returns.
+
+They made profit in August
+
+Mostly losses made.
+
+![Screenshot 2024-06-08 175557](https://github.com/Vickeejai/Sales-Report/assets/133552578/28666894-cd89-4028-8167-7d8ce5d48ef8)
+
+PENCILS:
+A growth for the first quarter of the year for all parameters.
+
+A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
+
+Highest profit was made in April.
+
+Made its lowest profit in February.
+
+![Screenshot 2024-06-08 175641](https://github.com/Vickeejai/Sales-Report/assets/133552578/dfb14359-2bd3-4126-99aa-f68662edf86d)
+
+STAPLERS:
+There was a major decline for all parameters for Stapler in the year 2014.
+
+A B C Stationery invested so much in this product but got no returns.
+
+They made profit in September
+
+Mostly losses made.
+
+![Screenshot 2024-06-08 175809](https://github.com/Vickeejai/Sales-Report/assets/133552578/bb4654e8-91d8-4edc-80d3-012d95229e9d)
+
+
 
 
 
