@@ -53,3 +53,22 @@ any of the product lines.
   -  Overall
   - For each state
   - For each segment
+
+### Data Analysis
+```Gross Sales = financials3[Units Sold]*financials3[Sale Price]```
+
+```Discount = financials3[Discount Rate]*financials3[Gross Sales]```
+
+```Revenue = financials3[Gross Sales]-financials3[Discount]```
+
+```Profit Before Tax = financials3[Revenue]-financials3[Manufacture Cost]```
+
+```Profit Margin = [Total Profit]/[Total Revenue]```
+
+```Tax on Profit = 0.05*financials3[Profit Before Tax]```
+
+```Profit after Tax = financials3[Profit Before Tax]-financials3[Tax]```
+
+```Sales Proportion = financials3[Manufacture Cost]/financials3[Units Sold]*100```
+
+### Results
