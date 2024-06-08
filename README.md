@@ -5,11 +5,24 @@
 
 [Data Source](data_source)
 
+[Tools](tools)
+
+[Data Cleaning](data_cleaning)
+
+[Exploratory Data Analysis](exploratory_data_analysis)
+
+[Data Analysis](data_analysis)
+
+[Results](results)
+
+[Recommendation](recommendation)
+
+
 ### Project Overview
 
 A B C Stationery, a company that deal on the buying and selling of stationeries across the western region of Nigeria has noticed a decline in profit trend and has requested the Data Analysis Team to look at the company’s performance as at year 2013 and 2014. After analyzing the datasets, this report shows the conclusion that A B C Stationary keeps investing in segments that are not producing profits like the Midmarket and Channel Partners across all states. Further insights are shown in this report to gain deeper understanding of the companys performance.
 
-### Data Source _Cargo_
+### Data Source
 
 Sales data: The primary dataset used for this analysis is [Football/Soccer Datasets](https://www.kaggle.com/datasets/dissfya/atp-tennis-2013-2023) file.
 
@@ -23,7 +36,7 @@ Sales data: The primary dataset used for this analysis is [Football/Soccer Datas
 - PowerPoint - Report Presentation
   - [Download_here](https://microsoft.com)
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase, we pperformed the following tasks:
 1. Data Loading and Inspection
