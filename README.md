@@ -44,8 +44,7 @@ EDA involved exploring the Office Supply dataset to answer the following questio
   - Segment
   - State
   - Product
-3. Produce a report on all products sold between January and December 2014, showing number of sales, sales proportions and financial performance. This analysis should determine if there is growth or decline on
-any of the product lines.
+3. Produce a report on all products sold between January and December 2014, showing number of sales, sales proportions and financial performance. This analysis should determine if there is growth or decline on any of the product lines.
 4. Compare 2013 Q4 and 2014 Q4 figures to highlight year on year results. Reproduce the report at higher levels such as Product category and State.
 5. What key products are the drivers of performance?
 6. If we would like to discontinue any product sub due to poor outcomes, what would this be?
@@ -72,3 +71,39 @@ any of the product lines.
 ```Sales Proportion = financials3[Manufacture Cost]/financials3[Units Sold]*100```
 
 ### Results
+2. The report for segmaent, state and product is shown below:
+
+![Screenshot 2024-06-08 172032](https://github.com/Vickeejai/Sales-Report/assets/133552578/40a5ab02-3e77-4c0d-90a8-c056142d5a63)
+
+This visuals shows that Midmarket and Channel Partners made huge losses while small Business made the highest amount of profit in the Segment overview.
+Based on State overview, high manufacturing cost in producing products, high revenue was generated but no significant profit gotten.
+The production of Staplers and Notepads should be suspended because of the losses made, thereby generating little or no profit in th Product Overview.
+
+3. Report on all products sold between January and December 2014, showing number of sales, sales proportions, financial performance, and if there is growth or decline on any of the product lines.
+
+![Screenshot 2024-06-08 174335](https://github.com/Vickeejai/Sales-Report/assets/133552578/46689d96-99ba-4a45-869d-0d9c64f749f9)
+
+![Screenshot 2024-06-08 174953](https://github.com/Vickeejai/Sales-Report/assets/133552578/8a51151c-9b35-4957-a40b-9d00f0c209a6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
