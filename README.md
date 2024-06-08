@@ -162,6 +162,25 @@ Mostly losses made.
 
 
 
+5. The key drivers of performance are Biro, A4 Paper, Pencil
+
+6. The products to be discontinued due to poor outcomes are Staplers, Notepads, and Markers.
+
+7. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
+
+### Prescriptive Analytics
+ - Based on our Descriptive and Diagnostic Analysis of this business, we recommend that A B C Stationary company should continue in the production of Biro, A4 Paper and Pencil because it will make and not mar the company by maximizing profit.
+  - An Audit on all their financial records with regards to the products and segments in view should take place due to the fact that there is a rampant occurrence of the manufacturing cost either higher or the same with the revenue gotten.
+ - We also recommend that there should be a slight increase in the selling price of products because it looks like the economy is affecting their output negatively.
+ - An audit on all sections in the company for the inspection of any fraudulent activity should be carried out in the respective departments.
+ - A market research or survey should be conducted by A B C Stationary to get feedback from their end users on how to improve their products.
+ - The production of Staplers, Markers and Notepads should be suspended indefinitely because it is producing no significant revenue even with high manufacturing cost.
+
+
+
+
+
+
 
 
 
