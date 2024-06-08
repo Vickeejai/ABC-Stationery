@@ -15,7 +15,7 @@
 
 [Results](results)
 
-[Recommendation](recommendation)
+[Prescriptive Analysis](prescriptive_analysis)
 
 
 ### Project Overview
@@ -168,7 +168,10 @@ Mostly losses made.
 
 7. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
 
+![Screenshot 2024-06-08 200930](https://github.com/Vickeejai/Sales-Report/assets/133552578/56f36b07-330b-4442-a4bd-ec2b41cf0960)
+
 ### Prescriptive Analytics
+
  - Based on our Descriptive and Diagnostic Analysis of this business, we recommend that A B C Stationary company should continue in the production of Biro, A4 Paper and Pencil because it will make and not mar the company by maximizing profit.
   - An Audit on all their financial records with regards to the products and segments in view should take place due to the fact that there is a rampant occurrence of the manufacturing cost either higher or the same with the revenue gotten.
  - We also recommend that there should be a slight increase in the selling price of products because it looks like the economy is affecting their output negatively.
@@ -176,6 +179,7 @@ Mostly losses made.
  - A market research or survey should be conducted by A B C Stationary to get feedback from their end users on how to improve their products.
  - The production of Staplers, Markers and Notepads should be suspended indefinitely because it is producing no significant revenue even with high manufacturing cost.
 
+   By following these steps, A B C Stationary will be able to have reasonable profits in years to come.
 
 
 
