@@ -110,7 +110,7 @@ Made its major loss in month February.
 
 ![Screenshot 2024-06-08 175142](https://github.com/Vickeejai/Sales-Report/assets/133552578/daeeb338-7e27-4cff-a7cc-6702e1668643) 
 
-BIRO:
+**BIRO:**
 A growth for the last quarter of the year for all parameters.
 
 A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
@@ -121,7 +121,7 @@ Made its major loss in moth August
 
 ![Screenshot 2024-06-08 175254](https://github.com/Vickeejai/Sales-Report/assets/133552578/436bcd1b-6a52-4a5e-ac07-53c5637bfc69)
 
-MARKERS:
+**MARKERS:**
 There was a major decline for all parameters for markers in the year 2014.
 
 A B C Stationery invested so much in this product but got no returns.
@@ -132,7 +132,7 @@ Mostly losses made.
 
 ![Screenshot 2024-06-08 175358](https://github.com/Vickeejai/Sales-Report/assets/133552578/77ea2d3f-af68-4194-ba4d-bcbb365e16cb)
 
-NOTEPADS:
+**NOTEPADS:**
 There was a major decline for all parameters for Notepads in the year 2014.
 
 A B C Stationery invested so much in this product but got no returns.
@@ -143,7 +143,7 @@ Mostly losses made.
 
 ![Screenshot 2024-06-08 175557](https://github.com/Vickeejai/Sales-Report/assets/133552578/28666894-cd89-4028-8167-7d8ce5d48ef8)
 
-PENCILS:
+**PENCILS:**
 A growth for the first quarter of the year for all parameters.
 
 A B C Stationery experienced their highest Sales Proportion and highest Number of Sales in June and December.
@@ -154,7 +154,7 @@ Made its lowest profit in February.
 
 ![Screenshot 2024-06-08 175641](https://github.com/Vickeejai/Sales-Report/assets/133552578/dfb14359-2bd3-4126-99aa-f68662edf86d)
 
-STAPLERS:
+**STAPLERS:**
 There was a major decline for all parameters for Stapler in the year 2014.
 
 A B C Stationery invested so much in this product but got no returns.
@@ -175,7 +175,7 @@ Mostly losses made.
 
 ![Screenshot 2024-06-08 200930](https://github.com/Vickeejai/Sales-Report/assets/133552578/56f36b07-330b-4442-a4bd-ec2b41cf0960)
 
-### Prescriptive Analytics
+### **Prescriptive Analytics**
 
  - Based on our Descriptive and Diagnostic Analysis of this business, we recommend that A B C Stationary company should continue in the production of Biro, A4 Paper and Pencil because it will make and not mar the company by maximizing profit.
   - An Audit on all their financial records with regards to the products and segments in view should take place due to the fact that there is a rampant occurrence of the manufacturing cost either higher or the same with the revenue gotten.
