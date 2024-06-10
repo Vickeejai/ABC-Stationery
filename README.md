@@ -165,13 +165,18 @@ Mostly losses made.
 
 ![Screenshot 2024-06-08 175809](https://github.com/Vickeejai/Sales-Report/assets/133552578/bb4654e8-91d8-4edc-80d3-012d95229e9d)
 
+4. Based on product category, the highlights for year on year results at Quarter 4 is described below:
+Biro, A4 Paper and Pencils produced significant revenue and profits with low and reasonable manufacturing cost in progression from 2013 to 2014, Staplers and Notepads showed huge lossses from the analysis with time even with the high amount of manufacturing cost, and Markers produced profit in 2013 but losses in 2014.
 
+![Screenshot 2024-06-10 111500](https://github.com/Vickeejai/Sales-Report/assets/133552578/d01740b3-e8c7-4d95-ab3b-178be97f348c)
 
-5. The key drivers of performance are Biro, A4 Paper, Pencil
+The analysis shown for state
 
-6. The products to be discontinued due to poor outcomes are Staplers, Notepads, and Markers.
+6. The key drivers of performance are Biro, A4 Paper, Pencil
 
-7. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
+7. The products to be discontinued due to poor outcomes are Staplers, Notepads, and Markers.
+
+8. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
 
 ![Screenshot 2024-06-08 200930](https://github.com/Vickeejai/Sales-Report/assets/133552578/56f36b07-330b-4442-a4bd-ec2b41cf0960)
 
