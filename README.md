@@ -172,11 +172,13 @@ Biro, A4 Paper and Pencils produced significant revenue and profits with low and
 
 The analysis shown for state
 
-6. The key drivers of performance are Biro, A4 Paper, Pencil
+![Screenshot 2024-06-10 114231](https://github.com/Vickeejai/Sales-Report/assets/133552578/61004008-488a-492a-917a-9ddfa4804675)
 
-7. The products to be discontinued due to poor outcomes are Staplers, Notepads, and Markers.
+5. The key drivers of performance are Biro, A4 Paper, Pencil
 
-8. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
+6. The products to be discontinued due to poor outcomes are Staplers, Notepads, and Markers.
+
+7. The products in which the highest tax is been paid for each state, each segment and overall is BIRO
 
 ![Screenshot 2024-06-08 200930](https://github.com/Vickeejai/Sales-Report/assets/133552578/56f36b07-330b-4442-a4bd-ec2b41cf0960)
 
