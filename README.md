@@ -170,7 +170,7 @@ Biro, A4 Paper and Pencils produced significant revenue and profits with low and
 
 ![Screenshot 2024-06-10 111500](https://github.com/Vickeejai/Sales-Report/assets/133552578/d01740b3-e8c7-4d95-ab3b-178be97f348c)
 
-The analysis shown for state
+The analysis shown for state comparing 2013 and 2014, Osun, Ogun and Oyo state are generating more profit in most product lines compared to Lagos and Ondo state.
 
 ![Screenshot 2024-06-10 114231](https://github.com/Vickeejai/Sales-Report/assets/133552578/61004008-488a-492a-917a-9ddfa4804675)
 
