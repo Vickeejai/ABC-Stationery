@@ -29,9 +29,7 @@ A B C Stationery, a company that deal on the buying and selling of stationeries 
 
 ### **Data Source**
 
-Sales data: The primary dataset used for this analysis is [Football/Soccer Datasets](https://www.kaggle.com/datasets/dissfya/atp-tennis-2013-2023) file.
-
-![](https://github.com/Vickeejai/Sales-Report/blob/main/Screenshot%20(10).png)
+Sales data: The primary dataset used for this analysis is the "Office Supply" file given to the team by ABC Stationery.
 
 ### **Tools**
 
